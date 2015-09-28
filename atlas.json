@@ -33,7 +33,7 @@
     "epub": {
       "index": true,
       "toc": true,
-      "epubcheck": false,
+      "epubcheck": true,
       "embedded_fonts": [
         "fonts/DejaVuSerif.otf",
         "fonts/DejaVuSans-Bold.otf",
@@ -68,6 +68,6 @@
       "consolidated": false
     }
   },
-  "theme": "oreillymedia/atlas_tech1c_theme",
+  "theme": "https://github.com/networm/atlas_tech1c_theme.git",
   "title": "Pro Git"
 }
